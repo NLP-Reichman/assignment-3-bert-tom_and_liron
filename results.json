@@ -1,1 +1,26 @@
-{}
+{
+  "test_link": {
+    "link": "https://colab.research.google.com/drive/14ReJ6mDn_CC8Aj71YYYsyU9btmZ0qJU-?usp=sharing"
+  },
+  "test_read_data": {
+    "lengths": [
+      1750,
+      250,
+      500
+    ]
+  },
+  "test_prepare_data": {
+    "dev_texts_shape": [
+      250,
+      61
+    ],
+    "train_labels_shape": [
+      1750,
+      77
+    ]
+  },
+  "test_model": {
+    "f1": 0.9846894590609092,
+    "f1_wo_o": 0.950066465741365
+  }
+}
